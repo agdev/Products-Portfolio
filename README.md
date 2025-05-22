@@ -1,4 +1,4 @@
-# Alexander Gurevich - Product Portfolio
+# Alexander Gurevich - Products Portfolio
 
 <p align="center">
   <img src="assets/BusinessCard.png" alt="Alexander Gurevich" width="200"/>
