@@ -1,36 +1,35 @@
+# Alexander Gurevich - Product Portfolio
+
 <p align="center">
   <img src="assets/BusinessCard.png" alt="Alexander Gurevich" width="200"/>
 </p>
 
-## Product
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+***A product-focused technical leader specializing in AI/ML solutions with over 20 years of 
+ software engineering expertise with hands-on experience with LangGraph, RAG, and 
+ LangChain implementations. Passionate about bridging the gap between 
+ technical capabilities and business value, with proven track record of implementing 
+ production-ready  systems and leading global teams to transform complex business 
+ challenges into high-impact software solutions. Currently focused on developing and 
+ deploying generative AI and machine learning applications to enhance business performance 
+ through innovative technical solutions.***
 
-![Example product screencap](/assets/posts/mealprep/example.svg)
+***More details on my [Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)***
 
----
- 
-## My Role
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
----
-
-## Execution
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
-
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+**Building User-Centered Solutions**
 
 ---
 
-## Challenges & Achievements
+## Featured Products
 
-### Challenges
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+### 🍽️ [BuilderPath](products/builder-path.md)
+**From Idea to Implementation Platform**
 
-### Achievements
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Streamlined process from ideation to implementation .
+
+![Builder Path Screenshot](assets/products/builder-path-thumb.png)
+
+<!-- **Key Impact:**  -->
+
+
+
+[View Details →](products/builder-path.md)
