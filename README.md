@@ -1,16 +1,6 @@
-# Products-Portfolio
-
----
-title: 'Mobile app for meal preparation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-coverImage: '/assets/posts/mealprep/cover.svg'
-date: '2022-06-01T05:35:07.322Z'
-author:
-  name: Annie Apple
-  picture: '/assets/blog/authors/annie.svg'
-ogImage:
-  url: '/assets/posts/mealprep/cover.svg'
----
+<p align="center">
+  <img src="assets/logo.png" alt="Logo" width="200"/>
+</p>
 
 ## Product
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
