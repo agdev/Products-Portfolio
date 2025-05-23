@@ -15,21 +15,18 @@
 
 ***More details on my [Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)***
 
-**Building User-Centered Solutions**
-
 ---
 
-## Featured Products
+## Products
 
-### 🍽️ [BuilderPath](products/builder-path.md)
-**From Idea to Implementation Platform**
+###  [BuilderPath]({% link products/builder-path.md %})
 
-Streamlined process from ideation to implementation .
+**Guiding Indie Builders From Idea to Implementation**
 
-![Builder Path Screenshot](assets/products/builder-path-thumb.png)
+Streamlining process from ideation to implementation .
+
+[![Builder Path Screenshot](assets/products/builder-path/LandingPage.png)]({% link products/builder-path.md %})
 
 <!-- **Key Impact:**  -->
 
-
-
-[View Details →](products/builder-path.md)
+[View Details →]({% link products/builder-path.md %})
