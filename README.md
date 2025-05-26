@@ -22,9 +22,7 @@
 
 **Guiding Indie Builders From Idea to Implementation**
 
-Streamlining process from ideation to implementation .
-
-[![Builder Path Screenshot](assets/products/builder-path/LandingPage.png)]({% link products/builder-path.md %})
+[![Builder Path Screenshot]({{ '/assets/products/builder-path/LandingPage.png' | relative_url}})]({{ '/products/builder-path.html' | relative_url }})
 
 <!-- **Key Impact:**  -->
 

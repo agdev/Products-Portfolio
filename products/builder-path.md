@@ -2,7 +2,7 @@
 title: Builder Path
 ---
 
-[← Back to Portfolio]({% link README.md %})
+[← Back to Portfolio]({{ 'index.html' | relative_url}} )
 
 # BuilderPath 
 ---
@@ -10,7 +10,7 @@ title: Builder Path
 
 **Streamlining process from Ideation to Implementation for Indie Builders**
 
-![BuilderPath Hero](../assets/products/builder-path/LandingPage.png)
+![BuilderPath Hero]({{ '/assets/products/builder-path/LandingPage.png' | relative_url}})
 
 ---
 
@@ -38,42 +38,42 @@ BuilderPath transforms product ideation from scattered brainstorming into a stru
 - Concept validation and objective clarification
 - Smart prompts to help users articulate their vision clearly
 
-![Idea Stage](../assets/products/builder-path/IdeaStage.png)
+![Idea Stage]({{ '/assets/products/builder-path/IdeaStage.png' | relative_url}})
 
 **🎯 Target Audience Analysis**
 - Intelligent audience profiling with AI-generated insights
 - Problem and pain point identification
 - Automated value proposition generation based on audience needs
 
-![Target Audience Stage](../assets/products/builder-path/AudienceStage.png)
+![Target Audience Stage]({{ '/assets/products/builder-path/AudienceStage.png' | relative_url}})
 
 **📝 Dynamic Feature Prioritization**
 - Impact vs. effort assessment matrix
 - AI-powered feature recommendations
 - Real-time priority adjustments based on target audience feedback
 
-![Features Stage](../assets/products/builder-path/FeaturesStage.png)
+![Features Stage]({{ '/assets/products/builder-path/FeaturesStage.png' | relative_url}})
 
 **🔧 Technical Implementation Planning**
 - Auto-generated technical architecture plans
 - Framework and technology recommendations
 - Database design and integration strategies
 
-![Technical Plan Stage](../assets/products/builder-path/TechnicalPlan.png)
+![Technical Plan Stage]({{ '/assets/products/builder-path/TechnicalPlan.png' | relative_url}})
 
 **📱 Contextual Mockup Generation**
 - AI-powered screen layouts based on prioritized features
 - Responsive design templates for different app types
 - Visual representations that evolve with feature changes
 
-![Mockups Stage](../assets/products/builder-path/MockupsStage.png)
+![Mockups Stage]({{ '/assets/products/builder-path/MockupsStage.png' | relative_url}})
 
 **📋 Implementation-Ready Deliverables**
 - Comprehensive Product Requirements Documents (PRD)
 - Structured task breakdowns for development
 - AI coding assistant prompts tailored to your technical plan
 
-![Deliverable Stages](../assets/products/builder-path/DeliverablesStage.png)
+![Deliverable Stages]({{ '/assets/products/builder-path/DeliverablesStage.png' | relative_url}})
 
 ---
 
@@ -206,7 +206,7 @@ Despite initial positive user feedback during testing, the soft launch failed to
 - **State Management:** Custom context providers with local storage persistence
 - **Deployment:** Lovable platform for rapid iteration and deployment
 
-[← Back to Portfolio]({% link README.md %})
+[← Back to Portfolio]({{ 'index.html' | relative_url}} )
 
 ---
 
