@@ -1,7 +1,3 @@
----
-title: Builder Path
----
-
 [← Back to Portfolio]({{ 'index.html' | relative_url}} )
 
 # BuilderPath 
