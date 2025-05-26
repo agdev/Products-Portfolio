@@ -1,4 +1,8 @@
-[← Back to Portfolio](../README.md)
+---
+title: Builder Path
+---
+
+[← Back to Portfolio]({% link README.md %})
 
 # BuilderPath 
 ---
@@ -202,7 +206,7 @@ Despite initial positive user feedback during testing, the soft launch failed to
 - **State Management:** Custom context providers with local storage persistence
 - **Deployment:** Lovable platform for rapid iteration and deployment
 
-[← Back to Portfolio](../README.md)
+[← Back to Portfolio]({% link README.md %})
 
 ---
 
