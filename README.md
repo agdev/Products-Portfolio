@@ -17,7 +17,8 @@
 
 ## Products
 
-###  [BuilderPath]({% link products/builder-path.md %})
+###  [BuilderPath]({{ '/products/builder-path.html' | relative_url }})
+<!-- ###  [BuilderPath]({% link products/builder-path.md %}) -->
 
 **Guiding Indie Builders From Idea to Implementation**
 
