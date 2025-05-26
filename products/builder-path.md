@@ -180,9 +180,6 @@ Despite initial positive user feedback during testing, the soft launch failed to
 
 ### User Feedback
 *Initially was interest but soft launch through community of indie builders did not attract users.*
-<!-- *"The target audience focus was a game-changer - I actually understood who I was building for before jumping into features."* - Beta User
-
-*"Having the technical plan automatically generated saved me weeks of architecture planning."* - Indie Developer -->
 
 ---
 
